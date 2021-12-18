@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\denis\source\repos\labis4\labis4\Main.cpp(10,13): warning C4101: hlobal1: неиспользованная локальная переменная
+  labis4.vcxproj -> C:\Users\denis\source\repos\labis4\Debug\labis4.exe

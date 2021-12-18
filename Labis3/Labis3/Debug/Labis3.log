@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\denis\source\repos\Labis3\Labis3\Postfix.h(138,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\source\repos\Labis3\Labis3\Postfix.h(81,18): warning C4101: check: неиспользованная локальная переменная
+C:\Users\denis\source\repos\Labis3\Labis3\Postfix.h(152,49): warning C4101: j: неиспользованная локальная переменная
+C:\Users\denis\source\repos\Labis3\Labis3\Postfix.h(145): warning C4715: Postfix::check: значение возвращается не при всех путях выполнения
+  Labis3.vcxproj -> C:\Users\denis\source\repos\Labis3\Debug\Labis3.exe

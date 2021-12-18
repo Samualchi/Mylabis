@@ -1,0 +1,3 @@
+﻿  Tset.cpp
+C:\Users\denis\source\repos\labis1\labis1\Tset.cpp(37): warning C4717: TSet::operator TBitField: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  labis1.vcxproj -> C:\Users\denis\source\repos\labis1\Debug\labis1.exe
